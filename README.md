@@ -1,6 +1,8 @@
-# app
+# HUSTLER'S DEN
 
-A new Flutter project.
+My First Android App Built In Flutter
+
+Will Be Soon In Playstore
 
 ## Getting Started
 
